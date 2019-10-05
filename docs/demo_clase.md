@@ -2,7 +2,7 @@
 * Viñeta 1
 * Viñeta 2
 
-[] lista de chequeo 1
+[] lista de chequeo 1: En esta fila no hay ...
 [] lista de chequeo 2
 
 # subtitulo 3
